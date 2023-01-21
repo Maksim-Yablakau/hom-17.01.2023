@@ -1,0 +1,15 @@
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.csproj.AssemblyReference.cache
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+D:\kurs\hom 17.01.2023\task3\bin\Debug\net7.0\task3.exe
+D:\kurs\hom 17.01.2023\task3\bin\Debug\net7.0\task3.deps.json
+D:\kurs\hom 17.01.2023\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+D:\kurs\hom 17.01.2023\task3\bin\Debug\net7.0\task3.dll
+D:\kurs\hom 17.01.2023\task3\bin\Debug\net7.0\task3.pdb
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.dll
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\refint\task3.dll
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.pdb
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+D:\kurs\hom 17.01.2023\task3\obj\Debug\net7.0\ref\task3.dll
